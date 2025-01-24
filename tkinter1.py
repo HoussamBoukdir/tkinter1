@@ -10,8 +10,8 @@ Lb.insert(3, 'JS')
 Lb.insert(4, 'Any other')
 Lb.grid(row=0, column=0, columnspan=2)  
 
-Label(master, text='First Name').grid(row=1, column=0)
-Label(master, text='Last Name').grid(row=2, column=0)
+Label(master, text='First Name:').grid(row=1, column=0)
+Label(master, text='Last Name:').grid(row=2, column=0)
 
 e1 = Entry(master)
 e2 = Entry(master)
