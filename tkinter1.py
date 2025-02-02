@@ -6,7 +6,7 @@ Lb = Listbox(master)
 Lb.insert(1, 'Python')
 Lb.insert(2, 'Java')
 Lb.insert(3, 'C++')
-Lb.insert(3, 'JavaScri')
+Lb.insert(3, 'JavaS')
 Lb.insert(4, 'Any other')
 Lb.grid(row=0, column=0, columnspan=2)  
 
